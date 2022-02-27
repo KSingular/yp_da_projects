@@ -1,0 +1,96 @@
+.title_project {
+    	background-color: #9dd2c4;
+    	padding: 0.3em 0.3em;
+    	border-radius: 3px;
+    	border: 1px;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 1.5em;
+	text-align: center;
+}
+.inner_cell h1 {
+    	background-color:  #d4d7dc;
+    	padding: 0.3em 0.3em;
+    	border-radius: 3px;
+    	border: 1px;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 1.5em;
+}
+.inner_cell h2 {
+    	background-color:  #d4d7dc;
+    	padding: 0.3em 0.3em;
+    	border-radius: 3px;
+    	border: 1px;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+.inner_cell h3 {
+    	background-color: #d4d7dc;
+    	padding: 0.3em 0.3em;
+    	border-radius: 3px;
+    	border: 1px;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+.inner_cell h4 {
+    	background-color: #d4d7dc;
+    	padding: 0.3em 0.3em;
+    	border-radius: 3px;
+    	border: 1px;
+	font-size: 13px;
+	line-height: 1.5em;
+}
+.inner_cell h5 {
+    	background-color: #d4d7dc;
+    	padding: 0.3em 0.3em;
+    	border-radius: 3px;
+    	border: 1px;
+	font-size: 13px;
+	line-height: 1.5em;
+}
+.inner_cell h6 {
+    	background-color: #FFD700;
+    	padding: 0.3em 0.3em;
+    	border-radius: 3px;
+    	border: 1px;
+	font-size: 13px;
+	line-height: 1.5em;
+}
+.rendered_html p {	
+	text-align: justify;
+    	line-height: 1.5em;
+	text-indent: 1.5em;
+	font-size: 14px;
+}
+.rendered_html ol {
+	text-align: justify;
+}
+.rendered_html tr, .rendered_html th, .rendered_html td {
+	text-align: center;
+}
+.rendered_html table thead tr th {
+        border: 1px solid black;
+	background-color: #d4d7dc;
+}
+.rendered_html table tbody tr td {
+        border: 1px solid black;
+}
+.rendered_html div table.dataframe thead tr th {
+	text-align: center;
+}
+.dataframe thead th {
+        border: 1px solid black;
+	background-color: #d4d7dc;
+}
+.dataframe tbody tr th {
+        border: 1px solid black;
+	background-color: #d4d7dc;
+	text-align: center;
+}
+.dataframe tbody td {
+        border: 1px solid black;
+	text-align: center;
+}
+
+
