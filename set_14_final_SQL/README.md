@@ -1,6 +1,6 @@
 # Анализ базы данных сервиса для чтения книг по подписке
 
-## [Ссылка на проект в nbviewer](https://nbviewer.org/github/KSingular/yp_da_projects/blob/fb32fef3b155593d2b2f6a667da907cdde7f9ede/set_14_final_SQL/set_14_final_SQL.ipynb)
+## [Ссылка на проект в nbviewer](https://nbviewer.org/github/KSingular/yp_da_projects/blob/4886274a10c75a8b01b95e46de73786e568fa8eb/set_14_final_SQL/set_14_final_SQL.ipynb)
 
 ## Описание
 **Цель** - анализ базы данных сервиса для чтения книг по подписке, чтобы сформулировать ценностное предложение для нового продукта.
