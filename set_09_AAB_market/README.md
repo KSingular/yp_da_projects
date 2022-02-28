@@ -1,6 +1,6 @@
 # Анализ поведения пользователей приложения для покупки продуктов питания
 
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_09_AAB_market/set_09_AAB_market.ipynb)
+## [Ссылка на проект в nbviewer](https://nbviewer.org/github/KSingular/yp_da_projects/blob/2f266b9b1e79c5b14c4bdec6c13fd3607e9055e6/set_09_AAB_market/set_09_AAB_market.ipynb)
 
 ## Описание
 **Цель:** проанализировать поведение пользователей мобильного приложения для покупки продуктов питания.  
