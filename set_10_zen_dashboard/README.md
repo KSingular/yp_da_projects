@@ -1,6 +1,6 @@
 # Анализ взаимодействия пользователей с карточками статей Яндекс.Дзен
 
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_10_zen_dashboard/set_10_zen_dashboard.ipynb)
+## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/36d3d2ffb44621e53fcb68f60d681134430a5f80/set_10_zen_dashboard/set_10_zen_dashboard.ipynb)
 
 ## Описание
 **Цель:** автоматизировать анализ взаимодействия пользователей с карточками статей Яндекс.Дзен.
@@ -8,7 +8,7 @@
 **Задача:** сделать дашборд, который будет основываться на пайплайне, который будет брать данные из таблицы, в которых хранятся сырые данные, трансформировать данные и укладывать их в агрегирующую таблицу. Пайплайн будет разработан дата-инженерами. 
 
 ## [Ссылка на дашборд](https://public.tableau.com/app/profile/al8059/viz/dashboard_visits/sheet4)
-## [Презентация о работе с дашбордом.pdf](https://github.com/KSingular/yp_da_projects/blob/main/set_10_zen_dashboard/Анализ_взаимодействия_пользователей_с_карточками_статей_Яндекс.pdf)
+## [Презентация.pdf](https://github.com/KSingular/yp_da_projects/blob/main/set_10_zen_dashboard/Анализ_взаимодействия_пользователей_с_карточками_статей_Яндекс.pdf)
 
 ## Используемые библиотеки
 `PostgreSQL` `SQLAlchemy` `Pandas` `os` `dotenv`
