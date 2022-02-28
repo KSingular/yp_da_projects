@@ -1,6 +1,6 @@
 # Приоритезация и A/B-тестирование гипотез для интернет-магазина
 
-## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_07_AB_online_market/set_07_AB_online_market.ipynb)
+## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_07_AB_online_market/set_07_AB_online_market.ipynb)
 
 ## Описание
 **Цель:** приоритизировать 9 гипотез, подготовленных совместно с отделом маркетинга, запустить A/B-тест и проанализировать результаты.

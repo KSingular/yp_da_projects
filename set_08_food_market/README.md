@@ -1,6 +1,6 @@
 # Анализ рынка заведений общественного питания Москвы
 
-## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_08_food_market/set_08_food_market.ipynb)
+## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_08_food_market/set_08_food_market.ipynb)
 
 ## Описание
 **Цель:** подготовить исследование рынка заведений общественного питания в Москве для инвесторов проекта "Кафе, в котором гостей обслуживают роботы".

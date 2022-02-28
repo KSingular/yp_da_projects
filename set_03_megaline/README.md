@@ -1,6 +1,6 @@
 # Определение перспективного тарифа для телеком компании
 
-## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_03_megaline/set_03_megaline.ipynb)
+## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_03_megaline/set_03_megaline.ipynb)
 
 ## Описание
 
