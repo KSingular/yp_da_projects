@@ -1,5 +1,5 @@
 # Исследование надежности заемщиков
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_01_lenders/set_01_lenders.ipynb) 
+## [Ссылка на проект в nbviewer](https://nbviewer.org/github/KSingular/yp_da_projects/blob/c4c668dc9c64b38080ad9fa4c25443b5938eb56c/set_01_lenders/set_01_lenders.ipynb)
 ## Описание
 
 **Цель** - исследовать надежность заемщиков банка.  
