@@ -1,6 +1,6 @@
 # Аналитика в авиакомпании
 
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/main/set_05_avia_geo/set_05_avia_geo.ipynb)
+## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_05_avia_geo/set_05_avia_geo.ipynb)
 
 ## Описание
 **Цель:** изучить базу данных и проанализировать модельный ряд самолетов, на которых осуществляются внутренние рейсы, а также спрос пассажиров на рейсы в разные города.

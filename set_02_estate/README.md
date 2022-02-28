@@ -1,6 +1,6 @@
 # Анализ рынка недвижимости Санкт-Петербурга
 
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/main/set_02_estate/set_02_estate.ipynb)
+## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_02_estate/set_02_estate.ipynb)
 
 ## Описание
 

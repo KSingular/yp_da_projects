@@ -1,6 +1,6 @@
 # Анализ продуктовых и маркетинговых метрик сервиса Яндекс.Афиша
 
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/main/set_06_ya_afisha/set_06_ya_afisha.ipynb)
+## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_06_ya_afisha/set_06_ya_afisha.ipynb)
 
 ## Описание
 **Цель:** помочь маркетологам сервиса Яндекс.Афиша снизить расходы - отказаться от невыгодных источников трафика и перераспределить бюджет.

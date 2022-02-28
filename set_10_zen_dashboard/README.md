@@ -1,6 +1,6 @@
 # Анализ взаимодействия пользователей с карточками статей Яндекс.Дзен
 
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/main/set_10_zen_dashboard/set_10_zen_dashboard.ipynb)
+## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_10_zen_dashboard/set_10_zen_dashboard.ipynb)
 
 ## Описание
 **Цель:** автоматизировать анализ взаимодействия пользователей с карточками статей Яндекс.Дзен.

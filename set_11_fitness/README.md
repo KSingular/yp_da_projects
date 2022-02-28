@@ -1,6 +1,6 @@
 # Анализ данных для подготовки плана действий по удержанию клиентов сети фитнес-центров "Культурист-датасаентист"
 
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/main/set_11_fitness/set_11_fitness.ipynb)
+## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_11_fitness/set_11_fitness.ipynb)
 
 ## Описание
 **Цель:** провести анализ и подготовить план действий по удержанию клиентов cети фитнес-центров "Культурист-датасаентист".  

@@ -1,6 +1,6 @@
 # Планирование рекламных кампаний для интернет-магазина "Стримчик"
 
-## [Ссылка на проект](https://nbviewer.org/github/KSingular/yp_da_projects/blob/main/set_04_games/set_04_games.ipynb)
+## [Ссылка на проект](https://github.com/KSingular/yp_da_projects/blob/17fc4d577f71f792866db8cb86cc519eebdc6a03/set_04_games/set_04_games.ipynb)
 
 ## Описание
 
