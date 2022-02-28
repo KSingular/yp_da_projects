@@ -1,6 +1,6 @@
 # Анализ базы данных сервиса для чтения книг по подписке
 
-## [Ссылка на проект в nbviewer](https://nbviewer.org/github/KSingular/yp_da_projects/)
+## [Ссылка на проект в nbviewer](https://nbviewer.org/github/KSingular/yp_da_projects/blob/bffb90c94861f1ff4f89cb3c457ec9e71abbb42f/set_13_final_AB/set_13_final_AB.ipynb)
 
 ## Описание
 **Цель** - провести оценку результатов A/B-теста. 
